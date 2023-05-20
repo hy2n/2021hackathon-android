@@ -1,2 +1,1 @@
-# gogo-
-For hackertone 2021
+중1때 해커톤 나갔을때 짠 앱
